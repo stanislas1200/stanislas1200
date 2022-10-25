@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
 <!---
 stanislas1200/stanislas1200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 [![sgodin's 42 stats](https://badge42.vercel.app/api/v2/cl75clqkn00060gmfav6m37al/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 [![sgodin's 42 stats](https://badge42.vercel.app/api/v2/cl75clqkn00060gmfav6m37al/stats?cursusId=21&coalitionId=53)](https://github.com/JaeSeoKim/badge42)
+</div>
