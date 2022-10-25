@@ -31,7 +31,7 @@ Body
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stanislas1200&title_color=246bce&text_color=ffffff&bg_color=000000)](https://wakatime.com/dashboard)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanislas1200&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true&card_width=450&line_height=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanislas1200&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true&card_width=445&line_height=30)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
