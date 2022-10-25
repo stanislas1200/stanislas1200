@@ -46,7 +46,7 @@ Foother
 <div align="center">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=stanislas1200&theme=discord)
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/stanislas1200/stanislas1200/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
