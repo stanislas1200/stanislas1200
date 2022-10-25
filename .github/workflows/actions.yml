@@ -1,9 +1,6 @@
 name: actions
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+on: [push]
   
 jobs:
   Explore-GitHub-Actions:
