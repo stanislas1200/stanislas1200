@@ -3,13 +3,20 @@ run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
+  # run manually
   workflow_dispatch:
+  # run on push
+  push:
+    branches:
+    - main
 jobs:
   Explore-GitHub-Actions:
+    permissions: 
+        contents: write
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
           github_user_name: stanislas1200
