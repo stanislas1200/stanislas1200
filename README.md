@@ -41,6 +41,7 @@ Body
   <img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="?" width="40" height="40"/>&nbsp;
   <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="Node.js" alt="?" width="40" height="40"/>&nbsp;
   <img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Node.js" alt="?" width="40" height="40"/>&nbsp;
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Node.js" alt="?" width="40" height="40"/>&nbsp;
 </div>
 
 <!---
