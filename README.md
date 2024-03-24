@@ -16,8 +16,11 @@ Body
 --->
 
 ---
-![sgodin's 42 stats](https://badge42.vercel.app/api/v2/cl75clqkn00060gmfav6m37al/stats?cursusId=9&coalitionId=piscine)
-![sgodin's 42 stats](https://badge42.vercel.app/api/v2/cl75clqkn00060gmfav6m37al/stats?cursusId=21&coalitionId=53)
+[//]: # (![sgodin's 42 stats](https://badge42.vercel.app/api/v2/cl75clqkn00060gmfav6m37al/stats?cursusId=9&coalitionId=piscine))
+[//]: # (![sgodin's 42 stats](https://badge42.vercel.app/api/v2/cl75clqkn00060gmfav6m37al/stats?cursusId=21&coalitionId=53))
+
+[![sgodin's 42 stats](https://badge42.coday.fr/api/v2/clu5kvn8j2010401p4o803tk6g/stats?cursusId=9&coalitionId=piscine)](https://github.com/Coday-meric/badge42)
+[![sgodin's 42 stats](https://badge42.coday.fr/api/v2/clu5kvn8j2010401p4o803tk6g/stats?cursusId=21&coalitionId=53)](https://github.com/Coday-meric/badge42)
 
 ---
 ### 🛌🏽 About Me :
