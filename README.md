@@ -56,7 +56,10 @@ Foother
 <a href="https://www.credly.com/badges/1510cb86-93b4-4ca0-9681-f5055e1a49c9">
 <img src ="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" title="Node.js" alt="?" width="40" height="40"/>
 </a>
-
+<a
+href="https://www.credly.com/badges/338578a6-dd7e-4129-924e-b1c1c17496ab">
+<img src ="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" title="Node.js" alt="?" width="40" height="40"/>
+</a>
 
 <div align="center">
 
