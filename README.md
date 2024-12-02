@@ -41,10 +41,10 @@ Body
   <img src ="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src ="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="Processing" alt="Processing" width="40" height="40"/>&nbsp;
   <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="py" width="40" height="40"/>&nbsp;
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="?" width="40" height="40"/>&nbsp;
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="Node.js" alt="?" width="40" height="40"/>&nbsp;
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Node.js" alt="?" width="40" height="40"/>&nbsp;
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Node.js" alt="?" width="40" height="40"/>&nbsp;
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 </div>
 
 <!---
@@ -54,11 +54,11 @@ Foother
 ---
 
 <a href="https://www.credly.com/badges/1510cb86-93b4-4ca0-9681-f5055e1a49c9">
-<img src ="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" title="Node.js" alt="?" width="40" height="40"/>
+<img src ="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="40" height="40"/>
 </a>
 <a
 href="https://www.credly.com/badges/338578a6-dd7e-4129-924e-b1c1c17496ab">
-<img src ="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" title="Node.js" alt="?" width="40" height="40"/>
+<img src ="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" title="AWS Certified Solutions Architect - Associate" alt="AWS Certified Solutions Architect - Associate" width="40" height="40"/>
 </a>
 
 <div align="center">
